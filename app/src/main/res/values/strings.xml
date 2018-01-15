@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UpdateContact</string>
+    <string name="update_contact">update_contact</string>
+    <string name="insert_contact">insert_contact</string>
+    <string name="update_title">update</string>
+    <string name="save_contact">savecontact</string>
+    <string name="cancel_contact">cancelcontact</string>
+</resources>
